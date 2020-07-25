@@ -12,7 +12,7 @@ https://m-c14-j2apps.s.llnwi.net/hls/5956.KolkataLive.in.m3u8
 #EXTINF:-1,INDIA: STAR JALSHA HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1,INDIA: ZEE BANGLA
-https://z5ams.akamaized.net/out/v1/9616200b22e049a8947aae755487d289/index.m3u8?hdnts=st=1595488951~exp=1595491951~acl=/*~hmac=5fc67d40b447e4c9f172177e1c31ddc8d15869c237ff43cc0181353ecf5c9200
+https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1,INDIA: ZEE BANGLA HD
 http://t100v.com/play.php?token=RED_N741CiTIu0OV4yfYyte5lQ==,1595471309.0316535914&id=47906
 #EXTINF:-1,INDIA: COLORS BANGLA
@@ -27,3 +27,15 @@ https://m-c29-j2apps.s.llnwi.net/hls/0121.AakashAath.in.m3u8
 https://sonnyside.buzz/api/tulip/hoichoi.m3u8?id=2e6c416b-df9d-484d-842e-64ce5c7d39a9&tvauth=rycnlNVFU1TlRRMU5EQXlNdz09CjpmOTk5NGM2YTg3MTQwMjQyYmQ5MTJhMWNmYTg3NDNlOQ==&channelid=zdwM2NUVFZhOTQ4OTczMjA1MWI4NTM4LWluLWFuZHJvaWQtZmZmZmZmZmYtOTMzNC04ZjE2LWZmZmYtZmZmZmVmMDVhYzRhFr
 #EXTINF:-1,INDIA: JALSHA MOVIES
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1,INDIA: STAR JALSHA
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1,INDIA: ZEE BANGLA
+http://103.205.133.14/hls/zeebangla.m3u8
+#EXTINF:-1,INDIA: ZEE BANGLA
+http://103.205.133.19/hls/zeebangla.m3u8
+#EXTINF:-1,INDIA: COLORS BANGLA
+https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+#EXTINF:-1,INDIA: R PLUS GOLD
+https://itpolly.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
+#EXTINF:-1,Bangla Time
+http://103.205.133.19/hls/banglatime.m3u8
