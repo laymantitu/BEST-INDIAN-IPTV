@@ -14,7 +14,9 @@ https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1,INDIA: ZEE BANGLA
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1,INDIA: ZEE BANGLA HD
-http://t100v.com/play.php?token=RED_N741CiTIu0OV4yfYyte5lQ==,1595471309.0316535914&id=47906
+https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1595772500~exp=1595775500~acl=/*~hmac=952beeafedc97b3d8a35d1dfd71475701ab8fd88b72ba05b126ba281a52bf408
+#EXTINF:-1,INDIA: ZEE BANGLA HD
+http://t100v.com/play.php?token=RED_qpAr6Ir3PNk_FojDdfR9BA==,1595792527.0316535914&id=47906
 #EXTINF:-1,INDIA: COLORS BANGLA
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1,INDIA: RUPOSHI BANGLA
@@ -24,9 +26,13 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_720p/index.m3u8
 #EXTINF:-1,INDIA: AAKASH AATH
 https://m-c29-j2apps.s.llnwi.net/hls/0121.AakashAath.in.m3u8
 #EXTINF:-1,INDIA: DD BANGLA
-https://sonnyside.buzz/api/tulip/hoichoi.m3u8?id=2e6c416b-df9d-484d-842e-64ce5c7d39a9&tvauth=rycnlNVFU1TlRRMU5EQXlNdz09CjpmOTk5NGM2YTg3MTQwMjQyYmQ5MTJhMWNmYTg3NDNlOQ==&channelid=zdwM2NUVFZhOTQ4OTczMjA1MWI4NTM4LWluLWFuZHJvaWQtZmZmZmZmZmYtOTMzNC04ZjE2LWZmZmYtZmZmZmVmMDVhYzRhFr
+http://t100v.com/play.php?token=RED_PpNbbxF42CcFgf2YVQvX2A==,1595791428.0316535914&id=47908
 #EXTINF:-1,INDIA: JALSHA MOVIES
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1,INDIA: ZEE BANGLA CINEMA
+http://t100v.com/play.php?token=RED_TjmGjC2Plzby-AVHeIjONg==,1595792141.0316535914&id=47914
+#EXTINF:-1,INDIA: ZEE BANGLA CINEMA
+https://z5ams.akamaized.net/zbanglacnm/index.m3u8?hdnts=st=1595772500~exp=1595775500~acl=/*~hmac=952beeafedc97b3d8a35d1dfd71475701ab8fd88b72ba05b126ba281a52bf408
 #EXTINF:-1,INDIA: STAR JALSHA
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1,INDIA: ZEE BANGLA
@@ -39,3 +45,19 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
 #EXTINF:-1,Bangla Time
 http://103.205.133.19/hls/banglatime.m3u8
+#EXTINF:-1,INDIA: STAR SPORTS 1 HD
+http://t100v.com/play.php?token=RED_FEthHmW6VRvh0fSniZ20UQ==,1595792770.0316535914&id=14000
+#EXTINF:-1,INDIA: STAR SPORTS 2 HD
+http://t100v.com/play.php?token=RED_6FyDvFD5WDpeeKOhhnHZ8g==,1595793188.0316535914&id=48103
+#EXTINF:-1,INDIA: STAR SPORTS 3
+http://t100v.com/play.php?token=RED_XeLx2bQr-N4jy4twURDBAw==,1595792862.0316535914&id=18181
+#EXTINF:-1,INDIA: STAR SPORTS SELECT 2 HD
+http://t100v.com/play.php?token=RED_FF-bNhJxLIQLYYQT5pP0sg==,1595793045.0316535914&id=48111
+#EXTINF:-1,INDIA: STAR SPORTS SELECT 1 HD
+http://t100v.com/play.php?token=RED_Refj8a5GLaOvulT-g2q5JQ==,1595793113.0316535914&id=48110
+#EXTINF:-1,INDIA: SONY TEN 1 HD
+https://sonnyside.buzz/api/tulip/liv.m3u8?id=1000009276&tvauth=acYWNNVFU1TlRjM05UTTBNUT09Cjo2YjA1NzgwZGI5N2JmMTgyNWNmN2M5MDNmZmQ2M2YyMg==&channelid=kQhY2JUVFZhOTQ4OTczMjA1MWI4NTM4LWluLWFuZHJvaWQtZmZmZmZmZmYtOTMzNC04ZjE2LWZmZmYtZmZmZmVmMDVhYzRh4D
+#EXTINF:-1,INDIA: SONY TEN 2 HD
+https://themezungle.buzz/api/tulip/liv.m3u8?id=1000009277&tvauth=bdYmRNVFU1TlRjM05UY3hNZz09CjozOTczZTk2MjE2OWNhY2I5MGFiZDMwYjEwZjcxNWYyOA==&channelid=rXNN2NUVFZhOTQ4OTczMjA1MWI4NTM4LWluLWFuZHJvaWQtZmZmZmZmZmYtOTMzNC04ZjE2LWZmZmYtZmZmZmVmMDVhYzRhx1
+#EXTINF:-1,INDIA: SONY TEN 3 HD
+https://themezungle.buzz/api/tulip/liv.m3u8?id=1000009278&tvauth=nrbnJNVFU1TlRjM05UYzNOZz09Cjo4M2MzZTZjNGJhY2M4MjgyOTBhZGZkYzcxNjg5OWMxMQ==&channelid=rIwZTlUVFZhOTQ4OTczMjA1MWI4NTM4LWluLWFuZHJvaWQtZmZmZmZmZmYtOTMzNC04ZjE2LWZmZmYtZmZmZmVmMDVhYzRhfH
